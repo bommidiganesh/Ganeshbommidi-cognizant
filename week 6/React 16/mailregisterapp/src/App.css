@@ -1,0 +1,41 @@
+.container{
+
+    text-align:center;
+
+    margin-top:100px;
+
+    font-family:Arial;
+
+}
+
+table{
+
+    margin:auto;
+
+}
+
+td{
+
+    padding:10px;
+
+}
+
+input{
+
+    width:250px;
+
+    height:30px;
+
+    font-size:16px;
+
+}
+
+button{
+
+    width:100px;
+
+    height:35px;
+
+    margin-top:10px;
+
+}

@@ -1,0 +1,63 @@
+.container{
+
+    margin-top:120px;
+
+    text-align:center;
+
+    font-family:Arial;
+
+}
+
+h1{
+
+    color:red;
+
+    font-size:50px;
+
+    margin-bottom:30px;
+
+}
+
+table{
+
+    margin:auto;
+
+}
+
+td{
+
+    padding:10px;
+
+    font-size:22px;
+
+}
+
+input{
+
+    width:250px;
+
+    height:30px;
+
+    font-size:18px;
+
+}
+
+textarea{
+
+    width:250px;
+
+    font-size:18px;
+
+}
+
+button{
+
+    margin-top:10px;
+
+    width:80px;
+
+    height:35px;
+
+    font-size:16px;
+
+}

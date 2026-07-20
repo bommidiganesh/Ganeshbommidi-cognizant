@@ -1,0 +1,21 @@
+.Card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    display: inline-block;
+}
+
+.light {
+    color: blue;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.dark {
+    color: white;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+    margin-right: 10px;
+}
